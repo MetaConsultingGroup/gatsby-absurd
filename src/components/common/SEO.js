@@ -6,7 +6,7 @@ const SEO_DATA = {
   title: 'O&F Consulting',
   url: '',
   author: 'O&F',
-  keywords: ['gatsby', 'site', 'absurd'],
+  keywords: ['O&F Consulting', 'OandF Consulting', 'O&F', 'OandF', 'O&Fconsulting', 'OandFconsulting'],
   img: '',
   twitterId: '',
   facebookId: '',
