@@ -13,6 +13,7 @@ import { ReactComponent as NodeLogo } from '@images/logos/nodejs.svg';
 import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 
+/*
 const LOGOS = [
   {
     logo: AirbnbLogo,
@@ -122,5 +123,7 @@ const Art = styled.figure`
     display: none;
   }
 `;
+
+*/
 
 export default UsedBy;
