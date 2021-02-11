@@ -18,20 +18,16 @@ const IndexPage = () => (
     <Header />
     <About>
       <Container>
-        <Form
-          name= "contact v1"
-          method="post"
-          data-netlify="true"
-          onSubmit="submit"
-        >
+        <Form name= "contact v1" method="post" data-netlify="true" onSubmit="submit">
+         <input type="hidden" name="form-name" value="contact v1" />
           <Row>
-            <Col md={6}>
+            <Col>
               <Form.Group>
                 <Form.Label>First Name </Form.Label>
                 <Form.Control required size="lg" type="text"/>
               </Form.Group>
             </Col>
-            <Col md={6}>
+            <Col>
               <Form.Group>
                 <Form.Label>Last Name </Form.Label>
                 <Form.Control required size="lg" type="text"/>
