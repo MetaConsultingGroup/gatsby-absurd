@@ -10,7 +10,7 @@ import Team from '@sections/Team';
 import Faq from '@sections/Faq'; ';*/
 import Footer from '@sections/Footer';
 
-import {Row, Col, Container, Form, Button} from "react"
+/* import {Row, Col, Container, Form, Button} from "react" */
 
 const IndexPage = () => (
   <Layout>
@@ -42,7 +42,7 @@ const IndexPage = () => (
               <Form.Label>How can we help? </Form.Label>
               <Form.Control required as="textarea" rows="3" placeholder="What do you do?"/>
         </Form.Group>
-        <Button type="submit"> Submit this </Button>
+        <Button type="submit"> Submit </Button>
       </Form>
     </Container>
         
