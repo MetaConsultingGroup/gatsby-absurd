@@ -10,7 +10,7 @@ import Team from '@sections/Team';
 import Faq from '@sections/Faq'; ';*/
 import Footer from '@sections/Footer';
 
-/* import {Row, Col, Container, Form, Button} from "react" */
+import {Row, Col, Container, Form, Button} from "react" 
 
 const IndexPage = () => (
   <Layout>
