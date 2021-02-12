@@ -10,14 +10,14 @@ import Team from '@sections/Team';
 import Faq from '@sections/Faq'; ';*/
 import Footer from '@sections/Footer';
 
-import {Row, Col, Container, Form, Button} from "react-bootstrap" 
+# import {Row, Col, Container, Form, Button} from "react-bootstrap" 
 
 const IndexPage = () => (
   <Layout>
     <Navbar />
     <Header />
     <About>
-      <Container>
+      /*<Container>
         <form name= "contact v1" method="post" data-netlify="true" onSubmit="submit">
          <input type="hidden" name="form-name" value="contact v1" />
           <Row>
@@ -40,7 +40,7 @@ const IndexPage = () => (
           </form.Group>
           <Button type="submit"> Submit </Button>
         </form>
-      </Container>
+      </Container> */
     </About>
                 
     <Footer />
