@@ -55,7 +55,6 @@ const Footer = () => (
               <h2>O&F Consulting</h2>
               <span>
                 All Rights Reserved
-                </ExternalLink>
               </span>
             </Copyright>
             <SocialIcons>
