@@ -48,19 +48,20 @@ const About = () => (
         <Container>
           <Grid>
             <div>
-              <h2>Speed past the competition</h2>
+              <h2>About Us</h2>
               <p>
-                Gatsby.js builds the fastest possible website. Instead of
-                waiting to generate pages when requested, pre-build pages and
-                lift them into a global cloud of servers — ready to be delivered
-                instantly to your users wherever they are.
+                Following a decade of professional experience in Product Development in the luxury Fashion
+Industry, we provide our knowledge and skills as a service for Headhunting and Recruitment.
+We have passion and enthusiasm to help Clients find the perfect match. Our empathic but yet professional ways of
+working, along with ethical and moral values, led us to build and nourish strong business
+relationships internationally.
               </p>
             </div>
             <Art>
               <Img fluid={data.art_fast.childImageSharp.fluid} />
             </Art>
           </Grid>
-          <Grid inverse>
+          /*<Grid inverse>
             <Art>
               <Img fluid={data.art_learn.childImageSharp.fluid} />
             </Art>
@@ -87,7 +88,7 @@ const About = () => (
             <Art>
               <Img fluid={data.art_ideas.childImageSharp.fluid} />
             </Art>
-          </Grid>
+          </Grid> */
         </Container>
       </Section>
     )}
