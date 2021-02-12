@@ -61,34 +61,19 @@ relationships internationally.
               <Img fluid={data.art_fast.childImageSharp.fluid} />
             </Art>
           </Grid>
-          /*<Grid inverse>
+          <Grid inverse>
             <Art>
               <Img fluid={data.art_learn.childImageSharp.fluid} />
             </Art>
             <div>
-              <h2>Nothing new to learn here</h2>
+              <h2>Our Aims</h2>
               <p>
-                Enjoy the power of the latest web technologies – React.js ,
-                Webpack , modern JavaScript and CSS and more — all set up and
-                waiting for you to start building.
+                As a natural consequence of our offering, we are very sensible about employment’s dynamics and the
+people's well being inside our client's Organisations. Our next goal is to promote healthy business
+environments, by collaborating alongside the clients, and improve their sinergies.
               </p>
             </div>
           </Grid>
-          <Grid>
-            <div>
-              <h2>Grow and build your ideas</h2>
-              <p>
-                Waste no more time on tooling and performance. Focus on the the
-                site you want to build and nothing more.
-                <br />
-                <br />
-                Gatsby is fast in every way that matters.
-              </p>
-            </div>
-            <Art>
-              <Img fluid={data.art_ideas.childImageSharp.fluid} />
-            </Art>
-          </Grid> */
         </Container>
       </Section>
     )}
