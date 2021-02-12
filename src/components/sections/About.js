@@ -52,7 +52,7 @@ const About = () => (
               <p>
                 Following a decade of professional experience in Product Development in the luxury Fashion
 Industry, we provide our knowledge and skills as a service for Headhunting and Recruitment.
-We have passion and enthusiasm to help Clients find the perfect match. Our empathic but yet professional ways of
+We have passion and enthusiasm to help clients find the perfect match. Our empathic yet professional ways of
 working, along with ethical and moral values, led us to build and nourish strong business
 relationships internationally.
               </p>
