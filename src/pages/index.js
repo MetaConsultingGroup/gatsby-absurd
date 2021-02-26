@@ -25,7 +25,7 @@ const IndexPage = () => (
               <Form.Group>
                 <Form.Label>First Name </Form.Label>
                 <Form.Control required size="lg" type="text"/>
-              </form.Group>
+              </Form.Group>
             </Col>
             <Col>
               <Form.Group>
