@@ -10,7 +10,7 @@ import Team from '@sections/Team';
 import Faq from '@sections/Faq'; ';*/
 import Footer from '@sections/Footer';
 
-import {Row, Col, Container, Form, Button} from "react-bootstrap";
+import {Row, Col, Container, Form, Button} from '@components/global';
 
 const IndexPage = () => (
   <Layout>
